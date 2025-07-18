@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Doe
+# 👋 Hi, I'm Abdus Samad
 
 ### 💻 Full Stack Developer | MERN Stack | Backend Focused
 
@@ -7,36 +7,59 @@ I'm a passionate developer with 3+ years of experience building scalable full-st
 ---
 
 ### 🧰 Tech Stack
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
 
 ---
 
 ### 📌 Featured Projects
-- 🏠 [Venue Booking App](#) – Role-based wedding venue platform with Stripe subscriptions  
-- 📝 [Exam Builder](#) – Dynamic question paper generator with PDF/DOC exports  
-- 🧾 [Webpage to HTML/PDF Converter](#) – Convert and download any webpage as PDF/HTML  
-- 🏡 [Real Estate Investment Portal](#) – Property buy/sell/invest system with ROI tracking  
-- 🛒 [Smart E-Commerce](#) – Subscription-based household product delivery platform  
+
+#### 🏠 [Venue Booking Platform](https://client.venuhost.com)
+
+> A role-based wedding venue booking platform with host subscriptions, Stripe integration, and backend-powered availability logic.
+
+#### 📝 [Exam Builder Tool](https://exambuilder.org)
+
+> A question bank and paper generator for teachers with PDF/DOC export features and backend-driven document formatting.
+
+#### 🧾 [Webpage to HTML/PDF Converter](http://archivevault.org)
+
+> Utility to convert any public webpage to downloadable HTML and PDF files with user history tracking.
+
+#### 🏡 [Real Estate Investment Portal](https://synergyinvestinc.com)
+
+> A property investment platform with user ROI tracking, property management, and real transaction handling via Stripe.
+
+#### 🛒 [Smart E-Commerce Platform](https://kitchcubesclient.netlify.app)
+
+> Subscription-based shopping platform for weekly/monthly delivery of essential household items.
+
+---
+
+### 🚀 More Projects
+
+Check out more projects on my [GitHub](https://github.com/abdussamadse) and my full portfolio at [abdussamadse.vercel.app](https://abdussamadse.vercel.app).
 
 ---
 
 ### 📈 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdussamadse&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdussamadse&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect With Me
-- 🔗 [Portfolio](https://johndoe.dev)
-- 💼 [LinkedIn](https://linkedin.com/in/johndoe)
-- 📬 Email: johndoe@example.com
+
+- 🔗 [Portfolio](https://abdussamadse.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdussamadse)
+- 📬 Email: abdussamadse@gmail.com
 
 ---
 
