@@ -59,7 +59,7 @@ Check out more projects on my [GitHub](https://github.com/abdussamadse) and my f
 
 - 🔗 [Portfolio](https://abdussamadse.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdussamadse)
-- 📬 Email: abdussamadse@gmail.com
+- 📬 abdussamadse@gmail.com
 
 ---
 
