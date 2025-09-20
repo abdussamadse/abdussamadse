@@ -2,13 +2,15 @@
 
 ### 💻 Full Stack Developer | MERN Stack | Backend Focused
 
-I'm a passionate developer with 3+ years of experience building scalable full-stack web applications. I specialize in backend development with **Node.js**, **Express**, and **MongoDB**, and love crafting responsive UIs with **React**. I enjoy solving real-world problems through code and building products that people love to use.
+I'm a passionate developer with 3+ years of experience building scalable full-stack web applications. I specialize in backend development with **Node.js**, **Express**, and **MongoDB**, and love crafting responsive UIs with **React**, ***React Native*** & ***Next.js***. I enjoy solving real-world problems through code and building products that people love to use.
 
 ---
 
 ### 🧰 Tech Stack
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
@@ -19,10 +21,6 @@ I'm a passionate developer with 3+ years of experience building scalable full-st
 ---
 
 ### 📌 Featured Projects
-
-#### 🏠 [Venue Booking Platform](https://client.venuhost.com)
-
-> A role-based wedding venue booking platform with host subscriptions, Stripe integration, and backend-powered availability logic.
 
 #### 📝 [Exam Builder Tool](https://exambuilder.org)
 
